@@ -1,1 +1,1 @@
-# email-fetcher
+# @mailess/email-fetcher
